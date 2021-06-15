@@ -1,2 +1,2 @@
-# arm
-ARM image sources for OSF
+# ARM Imaqges sources
+ARM image sources for OSF, get the kernel images and more. 
